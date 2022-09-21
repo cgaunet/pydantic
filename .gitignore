@@ -3,7 +3,6 @@ env/
 venv/
 env3*/
 Pipfile
-*.lock
 *.py[cod]
 *.egg-info/
 .python-version
