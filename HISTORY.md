@@ -15,7 +15,6 @@ for their kind support.
 * Complex types can be set via [nested environment variables](https://pydantic-docs.helpmanual.io/usage/settings/#parsing-environment-variable-values), e.g. `foo___bar`, #3159 by @Air-Mark
 * add a dark mode to _pydantic_ documentation, #2913 by @gbdlin
 * Add support for autocomplete in VS Code via `__dataclass_transform__`, #2721 by @tiangolo
-* Add "exclude" as a field parameter so that it can be configured using model config, #660 by @daviskirk
 
 ### v1.9.0 (2021-12-31) Changes
 
