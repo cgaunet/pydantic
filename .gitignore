@@ -6,7 +6,6 @@ Pipfile
 *.py[cod]
 *.egg-info/
 .python-version
-/build/
 dist/
 .cache/
 .mypy_cache/
